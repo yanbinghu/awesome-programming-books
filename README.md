@@ -51,7 +51,9 @@
 
 ## python
 
-[流畅的python](https://pan.baidu.com/s/15ogr5rWXHdtCuwmHvZJNaw)
+[流畅的python](https://pan.baidu.com/s/1Sl0Z7u1Fsd9cGUtNnS9yRQ) 提取码: f7jj
+
+[Python核心编程(第二版)](https://pan.baidu.com/s/1fHEoEhHPKsqs73Q3EyOU8w) 提取码: nacb
 
 ## java
 
