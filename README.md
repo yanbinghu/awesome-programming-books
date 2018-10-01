@@ -65,6 +65,10 @@
 
 [深入理解Java虚拟机：JVM高级特性与最佳实践.pdf](https://pan.baidu.com/s/1oqmkX9z5VcaGa2-bUD9yFQ) 提取码: rf8t
 
+[Java并发编程实战（中文版）](https://pan.baidu.com/s/1oKj9bIEbLAbtHBsTgOxkKA) 提取码: iwre
+
+[Java编程思想第四版完整中文高清版](https://pan.baidu.com/s/1WD5mb-FUf-LBAsugcpXoFQ) 提取码: vaui
+
 ## 计算机基础
 
 [深入理解计算机系统（中文版第二版.pdf）](https://pan.baidu.com/s/1fTiVn_DrD7dnkekyemjlGg) 提取码: n3p6
