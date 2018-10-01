@@ -51,44 +51,50 @@
 
 ## python
 
-[流畅的python]链接: https://pan.baidu.com/s/15ogr5rWXHdtCuwmHvZJNaw 提取码: 55pe
+[流畅的python](https://pan.baidu.com/s/15ogr5rWXHdtCuwmHvZJNaw)
 
 ## java
 
-[JAVA核心技术卷2：高级特征（原书第8版）]链接: https://pan.baidu.com/s/1oqmkX9z5VcaGa2-bUD9yFQ 提取码: rf8t
+[JAVA核心技术卷2：高级特征（原书第8版）](https://pan.baidu.com/s/1B9jJqK_hDMYCgYxygPAPAA) 提取码: m1y6
 
-[深入理解Java虚拟机：JVM高级特性与最佳实践]()
+[深入理解Java虚拟机：JVM高级特性与最佳实践](https://pan.baidu.com/s/1oqmkX9z5VcaGa2-bUD9yFQ) 提取码: rf8t
 
 ## 计算机基础
 
-[深入理解计算机系统（中文版第二版）]()
+[深入理解计算机系统（中文版第二版）](https://pan.baidu.com/s/1fTiVn_DrD7dnkekyemjlGg) 提取码: n3p6
 
-[计算机程序的构造和解释第二版]()
+[计算机程序的构造和解释第二版](https://pan.baidu.com/s/1of4ODRmOVdx2VONgsoaktw) 提取码: djn2
 
-[程序员的自我修养—链接、装载与库]()
+[程序员的自我修养—链接、装载与库](https://pan.baidu.com/s/1iixCglW4ujh2tWz3U_WnVQ) 提取码: xaqz
 
-[编译原理]()
+[编译原理](https://pan.baidu.com/s/1WxUv1I7bRY6-YGOAKFUiJQ) 提取码: x6rd
 
 
 ## 操作系统
 
-[深入理解linux内核（中文第三版）]()
+[深入理解linux内核（中文第三版）](https://pan.baidu.com/s/11RNjoi1Uo0OXOGA93j4OyA) 提取码: p84p
 
-[鸟哥的linux私房菜基础篇第四版]()
+[鸟哥的linux私房菜基础篇第四版](https://pan.baidu.com/s/1Hp1KoGO_-0ChBGQYYXRV4g) 提取码: mnxu
 
-[鸟哥的Linux私房菜服务器架设篇(第三版)]()
+[鸟哥的Linux私房菜服务器架设篇(第三版)](https://pan.baidu.com/s/10D-fRxQz1leHjfoGOnnxaw) 提取码: uwr6
 
 ## 数据结构和算法
 
-[算法导论 第三版 中文版]()
+[算法导论 第三版 中文版](https://pan.baidu.com/s/1TsFs8B-2R0qlb1ZQ2rJREg) 提取码: fc9q
 
-[数据结构与算法分析—C语言描述]()
+[数据结构与算法分析—C语言描述](https://pan.baidu.com/s/1OD-QiKLZTAO3jhaMQYF-Aw) 提取码: x7q5
 
 ## 协议
 
-[TCP-IP详解 三卷全]()
+[TCP-IP详解 三卷全](https://pan.baidu.com/s/1tVQyXfgcexHtK4iEwYdJxQ) 提取码: hr8d
 
 ## 软件工程
+
+[代码大全](https://pan.baidu.com/s/1efjGOIAlSwGXKaVxaCaJ_A) 提取码: pdyz
+
+[编程珠玑(第二版)](https://pan.baidu.com/s/1JtbOurtsE5HtCKs8dDg_lA) 提取码: ntaf
+
+[重构_改善既有代码的设计[高清版]](https://pan.baidu.com/s/1hXImzW58XRkYXs-qttCjLQ) 提取码: 8w1h
 
 
 
