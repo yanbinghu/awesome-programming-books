@@ -59,6 +59,8 @@
 
 ## java
 
+[JAVA核心技术卷1基础知识原书第10版](https://pan.baidu.com/s/1yoqqBf1P3Av6kaSzlSIjhQ) 提取码: 6t28
+
 [JAVA核心技术卷2：高级特征（原书第8版）.pdf](https://pan.baidu.com/s/1B9jJqK_hDMYCgYxygPAPAA) 提取码: m1y6
 
 [深入理解Java虚拟机：JVM高级特性与最佳实践.pdf](https://pan.baidu.com/s/1oqmkX9z5VcaGa2-bUD9yFQ) 提取码: rf8t
