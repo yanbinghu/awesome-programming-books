@@ -9,7 +9,9 @@
 * [计算机基础](#计算机基础)
 * [操作系统](#操作系统)
 * [数据结构和算法](#数据结构和算法)
+* [数据库](#数据库)
 * [软件工程](#软件工程)
+* [工作面试](#工作面试)
 * [其他](#其他)
 * [未完待续]
 
@@ -24,6 +26,8 @@
 [C Primer Plus第五版.pdf](https://pan.baidu.com/s/1fgnT9zaJWIGA1TVaulq13Q) 提取码：azpp
 
 [c程序设计语言第二版.pdf](https://pan.baidu.com/s/1Ql9rCYmyVOkrgitFCYu2dw) 提取码: yc6k
+
+[C11标准文档](https://pan.baidu.com/s/1M8f9AaeUaof3gAUXY8PHbQ) 提取码: wgc2
 
 [c标准库.pdf](https://pan.baidu.com/s/1QnV0NZBNLUrGvWyeNj-n3Q) 提取码: n2ih
 
@@ -58,6 +62,8 @@
 [Python核心编程(第二版).pdf](https://pan.baidu.com/s/1fHEoEhHPKsqs73Q3EyOU8w) 提取码: nacb
 
 ## java
+
+[effective-java.pdf](https://pan.baidu.com/s/1dbhWBpooxwzoLPZYldYWog) 提取码: cbh1
 
 [JAVA核心技术卷1基础知识原书第10版.rar](https://pan.baidu.com/s/1yoqqBf1P3Av6kaSzlSIjhQ) 提取码: 6t28
 
@@ -96,6 +102,10 @@
 
 [数据结构与算法分析—C语言描述.pdf](https://pan.baidu.com/s/1OD-QiKLZTAO3jhaMQYF-Aw) 提取码: x7q5
 
+## 数据库
+
+[高性能的MySQL.pdf](https://pan.baidu.com/s/1dj6ogaIUk-mIc5ByzBAq3A) 提取码: 18gq
+
 ## 协议
 
 [TCP-IP详解 三卷全.pdf](https://pan.baidu.com/s/1tVQyXfgcexHtK4iEwYdJxQ) 提取码: hr8d
@@ -107,6 +117,12 @@
 [编程珠玑(第二版).pdf](https://pan.baidu.com/s/1JtbOurtsE5HtCKs8dDg_lA) 提取码: ntaf
 
 [重构_改善既有代码的设计[高清版].pdf](https://pan.baidu.com/s/1hXImzW58XRkYXs-qttCjLQ) 提取码: 8w1h
+
+## 工作面试
+
+[编程之美——微软技术面试心得.pdf](https://pan.baidu.com/s/1QPS0bfQza8ANZ3_bBdEquw) 提取码: rpnv
+
+[剑指offer 名企面试官精讲典型编程题.pdf](https://pan.baidu.com/s/1Q70r-26CG9fp7r4qjhjyKQ) 提取码: bkub
 
 
 
