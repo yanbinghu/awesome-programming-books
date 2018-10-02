@@ -59,15 +59,15 @@
 
 ## java
 
-[JAVA核心技术卷1基础知识原书第10版](https://pan.baidu.com/s/1yoqqBf1P3Av6kaSzlSIjhQ) 提取码: 6t28
+[JAVA核心技术卷1基础知识原书第10版.rar](https://pan.baidu.com/s/1yoqqBf1P3Av6kaSzlSIjhQ) 提取码: 6t28
 
 [JAVA核心技术卷2：高级特征（原书第8版）.pdf](https://pan.baidu.com/s/1B9jJqK_hDMYCgYxygPAPAA) 提取码: m1y6
 
 [深入理解Java虚拟机：JVM高级特性与最佳实践.pdf](https://pan.baidu.com/s/1oqmkX9z5VcaGa2-bUD9yFQ) 提取码: rf8t
 
-[Java并发编程实战（中文版）](https://pan.baidu.com/s/1oKj9bIEbLAbtHBsTgOxkKA) 提取码: iwre
+[Java并发编程实战（中文版）.pdf](https://pan.baidu.com/s/1oKj9bIEbLAbtHBsTgOxkKA) 提取码: iwre
 
-[Java编程思想第四版完整中文高清版](https://pan.baidu.com/s/1WD5mb-FUf-LBAsugcpXoFQ) 提取码: vaui
+[Java编程思想第四版完整中文高清版.pdf](https://pan.baidu.com/s/1WD5mb-FUf-LBAsugcpXoFQ) 提取码: vaui
 
 ## 计算机基础
 
@@ -81,6 +81,8 @@
 
 
 ## 操作系统
+
+[现代操作系统（第三版）中文版](https://pan.baidu.com/s/1EwM6aHx0T-iwMke1Be-DGw) 提取码: tfg4
 
 [深入理解linux内核（中文第三版.pdf）](https://pan.baidu.com/s/11RNjoi1Uo0OXOGA93j4OyA) 提取码: p84p
 
