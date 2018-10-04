@@ -62,6 +62,8 @@
 
 [深度探索C++对象模型.pdf](https://pan.baidu.com/s/1dDMIPE5Avo6LYta5MRg6Vg) 提取码: qy4d
 
+[STL源码剖析中文版.pdf](https://pan.baidu.com/s/1S_FuoLcIAvm7EvWYHCBeHg) 提取码: 9dcy
+
 ## python
 
 [流畅的python.pdf](https://pan.baidu.com/s/1Sl0Z7u1Fsd9cGUtNnS9yRQ) 提取码: f7jj
@@ -124,6 +126,12 @@
 [编程珠玑(第二版).pdf](https://pan.baidu.com/s/1JtbOurtsE5HtCKs8dDg_lA) 提取码: ntaf
 
 [重构_改善既有代码的设计[高清版].pdf](https://pan.baidu.com/s/1hXImzW58XRkYXs-qttCjLQ) 提取码: 8w1h
+
+[UNIX编程艺术（中文）.pdf](https://pan.baidu.com/s/1Gkwrx2Q_yN2h5f67HLw1BQ) 提取码: brr4
+
+[程序员修炼之道 从小工到专家.pdf](https://pan.baidu.com/s/1r9sx5tX6elF06bDBawRC-Q) 提取码: sgkm
+
+[代码整洁之道 中文版.pdf](https://pan.baidu.com/s/1asGiEwFtHDvIVT12_rg2wg) 提取码: d9nt
 
 ## 设计模式
 
