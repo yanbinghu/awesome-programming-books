@@ -15,8 +15,10 @@
 * [数据结构和算法](#数据结构和算法)
 * [数据库](#数据库)
 * [软件工程](#软件工程)
+* [设计模式](#设计模式)
 * [工作面试](#工作面试)
-* [其他](#其他)
+* [杂谈](#杂谈)
+
 * [未完待续]
 
 
@@ -122,11 +124,23 @@
 
 [重构_改善既有代码的设计[高清版].pdf](https://pan.baidu.com/s/1hXImzW58XRkYXs-qttCjLQ) 提取码: 8w1h
 
+## 设计模式
+
+[设计模式_可复用面向对象软件的基础.pdf](https://pan.baidu.com/s/1qWFjSAYIa4RB6EeNjDiM1g) 提取码: 1wq9
+
+[Head First 设计模式(中文版).pdf](https://pan.baidu.com/s/1V1CYiHpS-FFa2O-bUdX-jQ) 提取码: g2qc
+
 ## 工作面试
 
 [编程之美——微软技术面试心得.pdf](https://pan.baidu.com/s/1QPS0bfQza8ANZ3_bBdEquw) 提取码: rpnv
 
 [剑指offer 名企面试官精讲典型编程题.pdf](https://pan.baidu.com/s/1Q70r-26CG9fp7r4qjhjyKQ) 提取码: bkub
+
+## 杂谈
+
+[浪潮之巅.pdf](https://pan.baidu.com/s/1FPQugsSdUJwezkqgUbZmAg) 提取码: qyc5
+
+[黑客与画家.pdf](https://pan.baidu.com/s/1Kg3fn1KrgDbMwwGtAFMk5w) 提取码: 2fjr
 
 
 
