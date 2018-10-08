@@ -3,9 +3,7 @@
 收集计算机各领域经典书籍，包含C/C++/Python/Java等经典入门和进阶书籍。
 书籍资源均来自网络，仅供学习交流使用，侵删。由于github存储大文件不便，因此仅在此提供链接。
 
-欢迎关注微信公众号编程珠玑获取更多技术文章:
 
-![编程珠玑](./qrcode.jpg)
 
 * [C](#c)
 * [Cpp](#cpp)
@@ -20,15 +18,15 @@
 * [工作面试](#工作面试)
 * [杂谈](#杂谈)
 
-* [未完待续]
 
 
+欢迎关注微信公众号[编程珠玑]获取更多技术文章:
 
-
-
-
+![编程珠玑](./qrcode.jpg)
 
 ## c
+
+
 
 [C Primer Plus第五版.pdf](https://pan.baidu.com/s/1fgnT9zaJWIGA1TVaulq13Q) 提取码：azpp
 
@@ -52,6 +50,7 @@
 
 ## cpp
 
+
 [C++ Primer第五版中文版.pdf](https://pan.baidu.com/s/1DC10MXmep_4WRk14smKIDA) 提取码: cccc
 
 [C++沉思录(Ruminations on C++)中文第2版.pdf](https://pan.baidu.com/s/1UQtMtZxtNahm4WUnzwnh6w) 提取码: b9dn
@@ -66,11 +65,14 @@
 
 ## python
 
+
+
 [流畅的python.pdf](https://pan.baidu.com/s/1Sl0Z7u1Fsd9cGUtNnS9yRQ) 提取码: f7jj
 
 [Python核心编程(第二版).pdf](https://pan.baidu.com/s/1fHEoEhHPKsqs73Q3EyOU8w) 提取码: nacb
 
 ## java
+
 
 [effective-java.pdf](https://pan.baidu.com/s/1dbhWBpooxwzoLPZYldYWog) 提取码: cbh1
 
