@@ -16,13 +16,11 @@
 * [软件工程](#软件工程)
 * [设计模式](#设计模式)
 * [工作面试](#工作面试)
+* [工具](#工具)
 * [杂谈](#杂谈)
+* [更多](#更多)
 
 
-
-欢迎关注微信公众号[编程珠玑]获取更多技术文章:
-
-![编程珠玑](./qrcode.jpg)
 
 ## c
 
@@ -147,12 +145,24 @@
 
 [剑指offer 名企面试官精讲典型编程题.pdf](https://pan.baidu.com/s/1Q70r-26CG9fp7r4qjhjyKQ) 提取码: bkub
 
+## 工具
+
+[pro git第二版中文版.pdf](https://pan.baidu.com/s/1PB4yfGfPdvH2-6NIaxM6Jg) 提取码: m5sm
+
+[git权威指南.pdf](https://pan.baidu.com/s/1F12dVjP573k-XLCVautvDA) 提取码: ydsv
+
 ## 杂谈
 
 [浪潮之巅.pdf](https://pan.baidu.com/s/1FPQugsSdUJwezkqgUbZmAg) 提取码: qyc5
 
 [黑客与画家.pdf](https://pan.baidu.com/s/1Kg3fn1KrgDbMwwGtAFMk5w) 提取码: 2fjr
 
+## 更多
+
+
+欢迎关注微信公众号[编程珠玑]获取更多技术文章:
+
+![编程珠玑](./qrcode.jpg)
 
 
 
