@@ -7,7 +7,7 @@
 
 欢迎关注微信公众号[编程珠玑]获取更多技术文章:
 
-<img src="./qrcode.jpg" width="15%" height="15%" align="center"/>
+<img src="./qrcode.jpg" width="35%" height="35%" align="center"/>
 
 
 * [C](#c)
