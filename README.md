@@ -34,7 +34,7 @@
 
 [c标准库.pdf](https://pan.baidu.com/s/1QnV0NZBNLUrGvWyeNj-n3Q) 提取码: n2ih
 
-[c和指针.pdf](https://pan.baidu.com/s/1EHMDmAgbEOh3RvPr4cNFSQ) 提取码: 433y
+[c和指针.pdf](https://pan.baidu.com/s/1ZnprAYB7YJ9agHKiCGVO3w) 提取码: bys5
 
 [c陷阱和缺陷.pdf](https://pan.baidu.com/s/1YcJxIj4DSYLEXkv_s6ZNfA) 提取码: uj3y
 
