@@ -61,6 +61,8 @@
 
 [STL源码剖析中文版.pdf](https://pan.baidu.com/s/1S_FuoLcIAvm7EvWYHCBeHg) 提取码: 9dcy
 
+[C++编程思想.pdf](https://pan.baidu.com/s/16tjuzSG0Z_OMnBqWKDX94Q) 提取码: 88hk
+
 ## python
 
 
@@ -105,6 +107,8 @@
 
 [鸟哥的Linux私房菜服务器架设篇(第三版).pdf](https://pan.baidu.com/s/10D-fRxQz1leHjfoGOnnxaw) 提取码: uwr6
 
+[操作系统精髓与设计原理.pdf](https://pan.baidu.com/s/1-_dEhcCIx_z1B0D6CloozA) 提取码: wtbg
+
 ## 数据结构和算法
 
 [算法导论 第三版 中文版.pdf](https://pan.baidu.com/s/1TsFs8B-2R0qlb1ZQ2rJREg) 提取码: fc9q
@@ -138,6 +142,7 @@
 [设计模式_可复用面向对象软件的基础.pdf](https://pan.baidu.com/s/1qWFjSAYIa4RB6EeNjDiM1g) 提取码: 1wq9
 
 [Head First 设计模式(中文版).pdf](https://pan.baidu.com/s/1V1CYiHpS-FFa2O-bUdX-jQ) 提取码: g2qc
+[大话设计模式C++.pdf](https://pan.baidu.com/s/1rjUN9y9nGAcYdYtNYFLoag) 提取码: sazx
 
 ## 工作面试
 
