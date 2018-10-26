@@ -30,7 +30,7 @@
 
 
 
-[C Primer Plus第五版.pdf](https://pan.baidu.com/s/1fgnT9zaJWIGA1TVaulq13Q) 提取码：azpp
+[C Primer Plus第五版.pdf]( https://pan.baidu.com/s/1OVwcK8qh8kNGKA1VtjTq-w)  提取码: xe4i
 
 [c程序设计语言第二版.pdf](https://pan.baidu.com/s/1Ql9rCYmyVOkrgitFCYu2dw) 提取码: yc6k
 
