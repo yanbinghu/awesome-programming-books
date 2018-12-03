@@ -115,7 +115,7 @@
 
 [深入linux内核架构.pdf](https://pan.baidu.com/s/1nVrYeXXFj-MCWpaQm2nJDQ) 提取码: 6ueq
 
-[深入linux内核架构英文版.pdf](链接: https://pan.baidu.com/s/1hF1hQ5P9PuOK0gPjLhtWJw) 提取码: 9g23 
+[深入linux内核架构英文版.pdf](https://pan.baidu.com/s/1hF1hQ5P9PuOK0gPjLhtWJw) 提取码: 9g23 
 
 ## 数据结构和算法
 
