@@ -53,7 +53,7 @@
 ## cpp
 
 
-[C++ Primer第五版中文版.pdf](https://pan.baidu.com/s/1DC10MXmep_4WRk14smKIDA) 提取码: cccc
+[C++ Primer第五版中文版.pdf](https://pan.baidu.com/s/1iLavQpOFsPgYpduD4sElYg) 提取码: 356v
 
 [C++沉思录(Ruminations on C++)中文第2版.pdf](https://pan.baidu.com/s/1UQtMtZxtNahm4WUnzwnh6w) 提取码: b9dn
 
