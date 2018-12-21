@@ -131,7 +131,7 @@
 
 [代码大全.pdf](https://pan.baidu.com/s/1efjGOIAlSwGXKaVxaCaJ_A) 提取码: pdyz
 
-[编程珠玑(第二版).pdf](https://pan.baidu.com/s/1JtbOurtsE5HtCKs8dDg_lA) 提取码: ntaf
+[编程珠玑(第二版).pdf](https://pan.baidu.com/s/1cOifguxz_OVFt9jswyDTAA) 提取码:  aee2
 
 [重构_改善既有代码的设计[高清版].pdf](https://pan.baidu.com/s/1hXImzW58XRkYXs-qttCjLQ) 提取码: 8w1h
 
