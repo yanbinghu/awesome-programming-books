@@ -106,6 +106,8 @@
 [编译原理.pdf](https://pan.baidu.com/s/1WxUv1I7bRY6-YGOAKFUiJQ) 提取码: x6rd
 
 
+
+
 ## 操作系统
 
 [现代操作系统（第三版）中文版](https://pan.baidu.com/s/1EwM6aHx0T-iwMke1Be-DGw) 提取码: tfg4
@@ -132,7 +134,9 @@
 
 ## 数据库
 
-[高性能的MySQL.pdf](https://pan.baidu.com/s/1dj6ogaIUk-mIc5ByzBAq3A) 提取码: 18gq
+[高性能MySQL.pdf](https://pan.baidu.com/s/1dj6ogaIUk-mIc5ByzBAq3A) 提取码: 18gq
+
+[redis设计与实现.pdf](https://pan.baidu.com/s/1FDRO0TDHQHGuPRY1n2ipHg) 提取码: eqn7
 
 ## 协议
 
@@ -150,6 +154,8 @@
 [程序员修炼之道 从小工到专家.pdf](https://pan.baidu.com/s/1r9sx5tX6elF06bDBawRC-Q) 提取码: sgkm
 
 [代码整洁之道 中文版.pdf](https://pan.baidu.com/s/1asGiEwFtHDvIVT12_rg2wg) 提取码: d9nt
+
+[敏捷软件开发：原则、模式与实践(全).pdf] (https://pan.baidu.com/s/16BAHFSMyGCr5h1UCXh0hiA) 提取码: xse4
 
 ## 设计模式
 
