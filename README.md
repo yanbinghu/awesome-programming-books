@@ -76,6 +76,8 @@
 
 [Python核心编程(第二版).pdf](https://pan.baidu.com/s/1fHEoEhHPKsqs73Q3EyOU8w) 提取码: nacb
 
+[Python Cookbook第三版中文.pdf](https://pan.baidu.com/s/1gaMfsCRjmlY170915y5Wjg) 提取码: jcez 
+
 ## java
 
 
@@ -106,7 +108,7 @@
 [编译原理.pdf](https://pan.baidu.com/s/1WxUv1I7bRY6-YGOAKFUiJQ) 提取码: x6rd
 
 
-
+[编码：隐匿在计算机软硬件背后的语言.pdf](https://pan.baidu.com/s/1-lkWympFyej4McFU-JkhpQ) 提取码: 9m82
 
 ## 操作系统
 
@@ -131,6 +133,8 @@
 [数据结构与算法分析—C语言描述.pdf](https://pan.baidu.com/s/1OD-QiKLZTAO3jhaMQYF-Aw) 提取码: x7q5
 
 [编程珠玑(第二版).pdf](https://pan.baidu.com/s/1cOifguxz_OVFt9jswyDTAA) 提取码:  aee2
+
+[数据结构与算法分析-Java语言描述](https://pan.baidu.com/s/1mB9Yq5jDIJDMVfvjuCO8qw) 提取码: 3td3
 
 ## 数据库
 
