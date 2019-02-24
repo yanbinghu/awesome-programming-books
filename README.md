@@ -101,7 +101,7 @@
 
 ## 前端
 
-链接: https://pan.baidu.com/s/1fLkLLv00dhKFNcjJDnDzaA 提取码: j8zh 复制这段内容后打开百度网盘手机App，操作更方便哦
+[javascript高级程序设计第三版.pdf](https://pan.baidu.com/s/1fLkLLv00dhKFNcjJDnDzaA) 提取码: j8zh 
 
 ## 计算机基础
 
@@ -165,7 +165,7 @@
 
 [代码整洁之道 中文版.pdf](https://pan.baidu.com/s/1asGiEwFtHDvIVT12_rg2wg) 提取码: d9nt
 
-[敏捷软件开发：原则、模式与实践(全).pdf] (https://pan.baidu.com/s/16BAHFSMyGCr5h1UCXh0hiA) 提取码: xse4
+[敏捷软件开发：原则、模式与实践(全).pdf](https://pan.baidu.com/s/16BAHFSMyGCr5h1UCXh0hiA) 提取码: xse4
 
 ## 设计模式
 
