@@ -132,6 +132,8 @@
 
 [深入linux内核架构英文版.pdf](https://pan.baidu.com/s/1hF1hQ5P9PuOK0gPjLhtWJw) 提取码: 9g23 
 
+[Linux命令行与shell脚本编程大全.第3版.pdf](https://pan.baidu.com/s/14a0sRkKhBIDw2LZ4YDb7QA) 提取码: rxgg
+
 ## 数据结构和算法
 
 [算法导论 第三版 中文版.pdf](https://pan.baidu.com/s/1TsFs8B-2R0qlb1ZQ2rJREg) 提取码: fc9q
@@ -141,6 +143,8 @@
 [编程珠玑(第二版).pdf](https://pan.baidu.com/s/1cOifguxz_OVFt9jswyDTAA) 提取码:  aee2
 
 [数据结构与算法分析-Java语言描述](https://pan.baidu.com/s/1mB9Yq5jDIJDMVfvjuCO8qw) 提取码: 3td3
+
+[算法.pdf](https://pan.baidu.com/s/1uj0I6gHVJF5gNQPeq3gZVw)提取码: xxjf 
 
 ## 数据库
 
