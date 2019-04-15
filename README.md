@@ -103,6 +103,8 @@
 
 [javascript高级程序设计第三版.pdf](https://pan.baidu.com/s/1fLkLLv00dhKFNcjJDnDzaA) 提取码: j8zh 
 
+[JavaScript面向对象精要.pdf](https://pan.baidu.com/s/19qpWs1eOifCJJA-223qX4g) 提取码: fps6
+
 ## 计算机基础
 
 [深入理解计算机系统（中文版第二版.pdf）](https://pan.baidu.com/s/1fTiVn_DrD7dnkekyemjlGg) 提取码: n3p6
